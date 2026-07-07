@@ -1,0 +1,21 @@
+:root {
+  color-scheme: dark;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: #000;
+  color: #f4f0e8;
+  font-family: 'Zilla Slab', Georgia, 'Times New Roman', serif;
+  -webkit-font-smoothing: antialiased;
+}
